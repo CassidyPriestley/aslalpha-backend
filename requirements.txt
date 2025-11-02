@@ -43,7 +43,6 @@ marshmallow==4.0.1
 matplotlib==3.10.6
 mdurl==0.1.2
 namex==0.1.0
-numpy==1.26.4
 opencv-contrib-python==4.11.0.86
 opencv-python==4.10.0.84
 opt_einsum==3.4.0
