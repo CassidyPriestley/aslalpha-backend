@@ -52,7 +52,6 @@ optree==0.17.0
 orjson==3.11.3
 packaging==25.0
 pillow==10.4.0
-protobuf==4.25.3
 pycparser==2.23
 pydantic==2.9.2
 pydantic-extra-types==2.10.5
