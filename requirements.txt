@@ -78,8 +78,8 @@ sounddevice==0.5.2
 starlette==0.38.6
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.15.0
-tensorflow-io-gcs-filesystem==0.34.0
+tensorflow==2.20.0
+tensorflow-io-gcs-filesystem==0.37.0
 termcolor==3.1.0
 typer==0.19.2
 typing-inspection==0.4.1
