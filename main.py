@@ -9,9 +9,9 @@ import uvicorn
 app = FastAPI()
 
 origins = [
-    "http://localhost:5173",  # Vite dev server
+    "http://localhost:5173",
     "http://127.0.0.1:5173",
-    # "https://your-frontend.netlify.app" --> later, add your deployed frontend URL here
+    "https://asl-alpha.netlify.app"
 ]
 app.add_middleware(
     CORSMiddleware,
